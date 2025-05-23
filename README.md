@@ -28,3 +28,6 @@ Vue3，LeaferJS，element-plus，file-saver，jszip，vueuse，pnpm
 
 在线体验：
 https://chenhuxiang.github.io/PicFreeCutter
+
+在线体验：
+https://wumingluren.github.io/PicFreeCutter
